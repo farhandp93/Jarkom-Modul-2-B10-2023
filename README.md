@@ -1,5 +1,12 @@
 # Laporan Jarkom-Modul-2-B10-2023
 
+Pembagian praktikum 
+Farhan 1-4 
+hasan 5-8 (9 masi ada eror saat demo) 
+revisi 
+hasan  10 11 12 13 14 15
+Farhan 16 17 18 19 20
+
 Kelompok B10 :
 Farhan Dwi Putra - 5025211093 
 Yusuf Hasan Nazila - 5025211225 
