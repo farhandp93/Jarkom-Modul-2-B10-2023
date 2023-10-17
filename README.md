@@ -69,6 +69,7 @@ No 9 sudah di rombak untuk nomer 10, perbedaannya dari no 10 diberikan port pada
 ![image](https://github.com/farhandp93/Jarkom-Modul-2-B10-2023/assets/114125438/1fa6ba60-9164-4cc2-81c6-a8166a7359dd)
 ![image](https://github.com/farhandp93/Jarkom-Modul-2-B10-2023/assets/114125438/2dec6535-9ee7-440f-bde1-8bdae657b2e2)
 ![image](https://github.com/farhandp93/Jarkom-Modul-2-B10-2023/assets/114125438/48f7aba5-0c60-42eb-87df-9f9cb32d2d28)
+![image](https://github.com/farhandp93/Jarkom-Modul-2-B10-2023/assets/114125438/54e956b6-2d3a-4d97-98b0-4b4a82321275)
 
 
 ## Nomor 10
@@ -79,6 +80,7 @@ Kemudian gunakan algoritma Round Robin untuk Load Balancer pada Arjuna. Gunakan 
 ![image](https://github.com/farhandp93/Jarkom-Modul-2-B10-2023/assets/114125438/e20480ff-a95e-42d5-b240-b4eeac062d98)
 ![image](https://github.com/farhandp93/Jarkom-Modul-2-B10-2023/assets/114125438/d29b004e-559f-4723-b567-ce41af586bbd)
 ![image](https://github.com/farhandp93/Jarkom-Modul-2-B10-2023/assets/114125438/f2610374-2306-4736-9f54-b51efc1fec1b)
+![image](https://github.com/farhandp93/Jarkom-Modul-2-B10-2023/assets/114125438/9eddabab-a82f-4be6-b30e-099040fc4b19)
 
 
 ## Nomor 11
